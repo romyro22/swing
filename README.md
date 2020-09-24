@@ -1,2 +1,2 @@
 # swing
-Componentes swing. Java
+Componentes swing para Java
